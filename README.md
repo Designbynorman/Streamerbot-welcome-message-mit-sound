@@ -1,7 +1,7 @@
 # Streamerbot-welcome-message-mit-sound
 Snippet - Individuelle Chat Nachricht für VIP oder Mod
 
-[Information](https://github.com/Designbynorman/Twitch-Channelpoint-Streamerbot-Video-Sound-Message/blob/main/info)
+[Information](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/INFO)
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
