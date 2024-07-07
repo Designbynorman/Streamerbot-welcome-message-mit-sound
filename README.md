@@ -1,7 +1,14 @@
 # Streamerbot-welcome-message-mit-sound
 Snippet - Individuelle Chat Nachricht für VIP oder Mod
 
-[Information](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/INFO)
+Trigger First Words
+Variable %user%
+
+[Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/first1.png)
+
+[Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/firts2.png)
+
+[Snippet - Schnipsel](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/snippet%20welcome)
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
