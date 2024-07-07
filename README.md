@@ -4,9 +4,9 @@ Snippet - Individuelle Chat Nachricht für VIP oder Mod
 Trigger First Words
 Variable %user%
 
-[Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/first1.png)
+![Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/first1.png)
 
-[Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/firts2.png)
+![Bild1](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/firts2.png)
 
 [Snippet - Schnipsel](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/snippet%20welcome)
 
