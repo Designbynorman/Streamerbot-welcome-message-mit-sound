@@ -10,6 +10,9 @@ Variable %user%
 
 [Snippet - Schnipsel](https://github.com/Designbynorman/Streamerbot-welcome-message-mit-sound/blob/main/snippet%20welcome)
 
+![Zeitstempel](
+https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [Website](https://www.designbynorman.com/streamerbot/)
