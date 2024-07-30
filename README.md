@@ -1,6 +1,8 @@
 # Streamerbot-welcome-message-mit-sound
 Snippet - Individuelle Chat Nachricht für VIP oder Mod
 
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
+
 Trigger First Words
 Variable %user%
 
