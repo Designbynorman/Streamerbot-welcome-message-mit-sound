@@ -15,8 +15,6 @@ Variable %user%
 ![Zeitstempel](
 https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
 
-[Website](https://www.designbynorman.com/streamerbot/)
-
 [On Discord](https://discord.gg/Gdt94HaFbM)
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
